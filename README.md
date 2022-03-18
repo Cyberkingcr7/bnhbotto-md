@@ -6,3 +6,10 @@
 - You gotta know typescript to use it
 - Still in beta
 - if you wanna contribute then pull request
+
+## To do
+- still gotta add session , yt etc 
+- thinking of making it mongo based
+- sure it shows qr
+- will add cmds
+
