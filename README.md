@@ -8,8 +8,7 @@
 - if you wanna contribute then pull request
 
 ## To do
-- still gotta add session , yt etc 
+- still gotta add commands 
 - thinking of making it mongo based
 - sure it shows qr
-- will add cmds
 
