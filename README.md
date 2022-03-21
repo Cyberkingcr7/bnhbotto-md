@@ -11,4 +11,5 @@
 - still gotta add commands 
 - thinking of making it mongo based
 - sure it shows qr
+- only supports termux and pc hosting 
 
