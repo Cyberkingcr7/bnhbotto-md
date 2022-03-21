@@ -120,8 +120,8 @@ const start = async() => {
 	// listen for when the auth credentials is updated
 	bnh.ev.on('creds.update', saveState)
 
-
+} 
 
 start()
 
-}
+
