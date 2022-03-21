@@ -13,3 +13,5 @@
 - sure it shows qr
 - only supports termux and pc hosting 
 
+## license 
+This repo is licensed under the Creative Commons Attribution 4.0 International Public License
